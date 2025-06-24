@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "name": "Lucky Bamboo Plant",
+      "category": "Air Purifier",
+      "brand": "ExampleBrand",
+      "price": 320.99,
+      "stock": 50,
+      "ratePoint": 4.9,
+      "Buyer": "(45)",
+      "image": "../img/Aimage_3.png"
+    },
+    {
+      "id": 2,
+      "name": "Bamboo Palm Plant",
+      "category": "Air Purifier",
+      "brand": "ExampleBrand",
+      "price": 300.99,
+      "stock": 40,
+      "ratePoint": 4.8,
+      "Buyer": "(35)",
+      "image": "../img/DSC_82942.png"
+    },
+    {
+      "id": 3,
+      "name": "Jode Plant Mini",
+      "category": "Air Purifier",
+      "brand": "ExampleBrand",
+      "price": 559.99,
+      "stock": 20,
+      "ratePoint": 4.9,
+      "Buyer": "(25)",
+      "image": "../img/LagosPlanter-Grey_f26c8dee-c8ce.png"
+    },
+    {
+      "id": 4,
+      "name": "Broken Heart Plant",
+      "category": "Air Purifier",
+      "brand": "ExampleBrand",
+      "price": 849.99,
+      "stock": 30,
+      "ratePoint": 5.0,
+      "Buyer": "(145)",
+      "image": "../img/Broken_Heart.png"
+    },
+    {
+      "id": 5,
+      "name": "Money Plant Variegated",
+      "category": "Air Purifier",
+      "brand": "ExampleBrand",
+      "price": 499.99,
+      "stock": 10,
+      "ratePoint": 4.2,
+      "Buyer": "(35)",
+      "image": "../img/Money_plant.png"
+    },
+    {
+      "id": 6,
+      "name": "AnthuriUm Red Plant",
+      "category": "Air Purifier",
+      "brand": "ExampleBrand",
+      "price": 239.99,
+      "stock": 40,
+      "ratePoint":  4.1,
+      "Buyer": "(225)",
+      "image": "../img/DSC_3273.png"
+    }
+  ]
+  
